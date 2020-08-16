@@ -14,6 +14,6 @@ The purpose of this project is to provide Seth and Tom data about the election r
   *Diana DeGette had the largest total number of votes. The total votes for Dianna is 272,892. The percentage out of the total is 73.8%.
   *Raymon Anthony Doane had the least amount of votes. The total votes for Doane is 11,606. The percentage out of the total is 3.1%.
   *Based off this information Diana Degette won the election collecting 73.8% of the votes. She had the largest total vote at 272,892. 
-!image
+![election_results](https://github.com/ducluu27/Election-Analysis/blob/master/Resources/Election%20Results.png)
 #### Election-Audit Summary
 This script is very useful and can be used for any future election. All that is required is an updated CVS file and data would be pulled quickly. With some modification the script could potentially provide a breakdown of the number of votes each candidate had from a specfic county. Or it could provide a breakdown of a specific candidate and which county had the most votes for that candidate.
