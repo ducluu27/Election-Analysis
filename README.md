@@ -17,13 +17,13 @@ The purpose of this project is to provide Seth and Tom data about the election r
 
 * Breakdown of the number of votes and the percentage of total votes each candidate received:
   
-  *Charles Casper Stockham had a total of 85,213 votes. The percentage out of the total is 23.0%
+  * Charles Casper Stockham had a total of 85,213 votes. The percentage out of the total is 23.0%
   
-  *Diana DeGette had the largest total number of votes. The total votes for Dianna is 272,892. The percentage out of the total is 73.8%.
+  * Diana DeGette had the largest total number of votes. The total votes for Dianna is 272,892. The percentage out of the total is 73.8%.
   
-  *Raymon Anthony Doane had the least amount of votes. The total votes for Doane is 11,606. The percentage out of the total is 3.1%.
+  * Raymon Anthony Doane had the least amount of votes. The total votes for Doane is 11,606. The percentage out of the total is 3.1%.
   
-  *Based off this information Diana Degette won the election collecting 73.8% of the votes. She had the largest total vote at 272,892. 
+  * Based off this information Diana Degette won the election collecting 73.8% of the votes. She had the largest total vote at 272,892. 
 
 ![election_results](https://github.com/ducluu27/Election-Analysis/blob/master/Resources/Election%20Results.png)
 
