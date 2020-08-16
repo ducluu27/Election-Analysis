@@ -14,6 +14,7 @@ The purpose of this project is to provide Seth and Tom data about the election r
   * Denver county had the largest a total votes. The total votes for Denever is 306,055. The percentage out of the total votes is 82.2%.
   
   * Arapahoe county had the smallest total votes. The total votes for Arapahoe is 24,801. The percentage out of the total votes is 6.7%
+
 *Breakdown of the number of votes and the percentage of total votes each candidate received:
   
   *Charles Casper Stockham had a total of 85,213 votes. The percentage out of the total is 23.0%
