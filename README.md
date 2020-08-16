@@ -7,7 +7,7 @@ The purpose of this project is to provide Seth and Tom data about the election r
 
   * Based off the results, the total amount of votes that were cast is 369,711.
 
-*Breakdown of the number of votes and the percentage of total votes for each county in the precinct:
+* Breakdown of the number of votes and the percentage of total votes for each county in the precinct:
   
   * Jefferson county had a total of 38,855 votes. The percentage out of the total votes is 10.5%
   
