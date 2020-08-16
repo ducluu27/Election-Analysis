@@ -15,7 +15,7 @@ The purpose of this project is to provide Seth and Tom data about the election r
   
   * Arapahoe county had the smallest total votes. The total votes for Arapahoe is 24,801. The percentage out of the total votes is 6.7%
 
-*Breakdown of the number of votes and the percentage of total votes each candidate received:
+* Breakdown of the number of votes and the percentage of total votes each candidate received:
   
   *Charles Casper Stockham had a total of 85,213 votes. The percentage out of the total is 23.0%
   
